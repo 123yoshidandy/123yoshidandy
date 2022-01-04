@@ -35,7 +35,7 @@
   - https://github.com/123yoshidandy/sample-react
   - https://github.com/123yoshidandy/sample-web-storage
 
-- family
+- family https://github.com/YoshidaFamily
   - https://github.com/YoshidaFamily/dashboard-app
   - https://github.com/YoshidaFamily/money-easy-me :lock:
   - https://github.com/YoshidaFamily/sample-android-app :lock:
