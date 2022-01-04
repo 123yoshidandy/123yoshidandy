@@ -31,9 +31,9 @@
   - https://github.com/123yoshidandy/music-recognizer
 
 - sample
-  - https://github.com/123yoshidandy/sample-react
-  - https://github.com/123yoshidandy/web-storage-sample001
   - https://github.com/123yoshidandy/samples
+  - https://github.com/123yoshidandy/sample-react
+  - https://github.com/123yoshidandy/sample-web-storage
 
 <!--
 **123yoshidandy/123yoshidandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
