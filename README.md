@@ -4,7 +4,7 @@
 
 - profile
   - https://github.com/123yoshidandy/123yoshidandy
-  - https://github.com/123yoshidandy/self-introduction
+  - https://github.com/123yoshidandy/self-introduction :lock:
 
 - game
   - https://github.com/123yoshidandy/game-3rd-force
@@ -18,14 +18,14 @@
   - https://github.com/123yoshidandy/game-tactics
 
 - automation
-  - https://github.com/123yoshidandy/automation-ending-days
-  - https://github.com/123yoshidandy/automation-pokemon-go
+  - :lock: https://github.com/123yoshidandy/automation-ending-days :lock:
+  - :lock: https://github.com/123yoshidandy/automation-pokemon-go :lock:
 
 - tool
-  - https://github.com/123yoshidandy/account-app
+  - https://github.com/123yoshidandy/account-app :lock:
   - https://github.com/123yoshidandy/alternative-tsukuba-kdb
   - https://github.com/123yoshidandy/history-of-singing
-  - https://github.com/123yoshidandy/password-generator
+  - https://github.com/123yoshidandy/password-generator :lock:
   - https://github.com/123yoshidandy/ikawidget3
   - https://github.com/123yoshidandy/zipper
   - https://github.com/123yoshidandy/music-recognizer
