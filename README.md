@@ -7,15 +7,15 @@
   - https://github.com/123yoshidandy/self-introduction
 
 - game
-  - https://github.com/123yoshidandy/game-panel-de-pon
   - https://github.com/123yoshidandy/game-3rd-force
-  - https://github.com/123yoshidandy/game-tactics
+  - https://github.com/123yoshidandy/game-panel-de-pon
+  - https://github.com/123yoshidandy/game-tetris
+  - https://github.com/123yoshidandy/game-cicle-cross-on-python
+  - https://github.com/123yoshidandy/game-circle-cross-on-javascript
   - https://github.com/123yoshidandy/game-battle-simulator-on-javascript
   - https://github.com/123yoshidandy/game-battle-simulator-on-python
-  - https://github.com/123yoshidandy/game-tetris
-  - https://github.com/123yoshidandy/game-circle-cross-on-javascript
   - https://github.com/123yoshidandy/game-skill-battle
-  - https://github.com/123yoshidandy/game-cicle-cross-on-python
+  - https://github.com/123yoshidandy/game-tactics
 
 - automation
   - https://github.com/123yoshidandy/automation-ending-days
