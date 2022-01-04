@@ -18,8 +18,8 @@
   - https://github.com/123yoshidandy/game-tactics
 
 - automation
-  - :lock: https://github.com/123yoshidandy/automation-ending-days :lock:
-  - :lock: https://github.com/123yoshidandy/automation-pokemon-go :lock:
+  - https://github.com/123yoshidandy/automation-ending-days :lock:
+  - https://github.com/123yoshidandy/automation-pokemon-go :lock:
 
 - tool
   - https://github.com/123yoshidandy/account-app :lock:
