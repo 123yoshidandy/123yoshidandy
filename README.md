@@ -19,10 +19,10 @@
   - :waning_gibbous_moon: https://github.com/123yoshidandy/game-tetris
   - :full_moon: https://github.com/123yoshidandy/game-cicle-cross-on-python
   - :full_moon: https://github.com/123yoshidandy/game-circle-cross-on-javascript
-  - :waning_crescent_moon: https://github.com/123yoshidandy/game-battle-simulator-on-javascript
-  - :waning_crescent_moon: https://github.com/123yoshidandy/game-battle-simulator-on-python
+  - :new_moon: https://github.com/123yoshidandy/game-battle-simulator-on-javascript
+  - :last_quarter_moon: https://github.com/123yoshidandy/game-battle-simulator-on-python
   - :waning_crescent_moon: https://github.com/123yoshidandy/game-skill-battle
-  - :waning_crescent_moon: https://github.com/123yoshidandy/game-tactics
+  - :new_moon: https://github.com/123yoshidandy/game-tactics
 
 - automation
   - :waning_gibbous_moon: https://github.com/123yoshidandy/automation-ending-days :lock:
