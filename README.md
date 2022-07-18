@@ -34,6 +34,7 @@
   - :waning_crescent_moon: https://github.com/123yoshidandy/ikawidget3
   - :last_quarter_moon: https://github.com/123yoshidandy/zipper
   - :waning_crescent_moon: https://github.com/123yoshidandy/music-recognizer
+  - :waning_gibbous_moon: https://github.com/123yoshidandy/recommender4twitter
 
 - sample
   - :full_moon: https://github.com/123yoshidandy/samples
