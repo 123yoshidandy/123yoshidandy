@@ -40,6 +40,8 @@
   - :full_moon: https://github.com/123yoshidandy/samples
   - :full_moon: https://github.com/123yoshidandy/sample-react
   - :full_moon: https://github.com/123yoshidandy/sample-web-storage
+  - :full_moon: https://github.com/123yoshidandy/python-getting-started
+  - :full_moon: https://github.com/123yoshidandy/sample-heroku-flask
 
 - family https://github.com/YoshidaFamily
   - :new_moon: https://github.com/YoshidaFamily/dashboard-app
