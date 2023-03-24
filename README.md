@@ -18,7 +18,7 @@
 1. https://github.com/123yoshidandy/tetris 🌗
 1. https://github.com/123yoshidandy/cicle-cross-on-python 🌕
 1. https://github.com/123yoshidandy/circle-cross-on-javascript 🌕
-1. https://github.com/123yoshidandy/battle-simulator-on-python 🌖
+1. https://github.com/123yoshidandy/battle-simulator-on-python 🌕
 1. https://github.com/123yoshidandy/battle-simulator-on-javascript 🌑
 1. https://github.com/123yoshidandy/skill-battle 🌗
 1. https://github.com/123yoshidandy/tactics-game 🌑
