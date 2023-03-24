@@ -11,15 +11,18 @@
 1. https://github.com/123yoshidandy/automation-pokemon-go 🌗 :lock:
 1. https://github.com/123yoshidandy/nxmc-macros 🌗
 
-### Game
+### Web Game
 
 1. https://github.com/123yoshidandy/3rd-force 🌗
 1. https://github.com/123yoshidandy/panel-de-pon 🌗
 1. https://github.com/123yoshidandy/tetris 🌗
-1. https://github.com/123yoshidandy/cicle-cross-on-python 🌕
 1. https://github.com/123yoshidandy/circle-cross-on-javascript 🌕
-1. https://github.com/123yoshidandy/battle-simulator-on-python 🌕
 1. https://github.com/123yoshidandy/battle-simulator-on-javascript 🌑
+
+### Native Game
+
+1. https://github.com/123yoshidandy/cicle-cross-on-python 🌕
+1. https://github.com/123yoshidandy/battle-simulator-on-python 🌕
 1. https://github.com/123yoshidandy/skill-battle 🌗
 1. https://github.com/123yoshidandy/tactics-game 🌑
 
