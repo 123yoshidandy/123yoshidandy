@@ -31,6 +31,7 @@
 ### For Splatoon
 
 1. https://github.com/123yoshidandy/ikawidget3
+2. https://github.com/123yoshidandy/salmon-run-scorer
 
 ### Tool
 
@@ -57,6 +58,6 @@
 
 ## YoshidaFamily's Repositories
 
-1. https://github.com/YoshidaFamily/dashboard-app
 1. https://github.com/YoshidaFamily/money-easy-me :lock:
-1. https://github.com/YoshidaFamily/sample-android-app :lock:
+2. https://github.com/YoshidaFamily/my-dashboard :lock:
+3. https://github.com/YoshidaFamily/sample-android-app :lock:
