@@ -5,6 +5,12 @@
 1. https://github.com/123yoshidandy/123yoshidandy
 1. https://github.com/123yoshidandy/self-introduction :lock:
 
+### Automation
+
+1. https://github.com/123yoshidandy/automation-ending-days :lock:
+1. https://github.com/123yoshidandy/automation-pokemon-go :lock:
+1. https://github.com/123yoshidandy/nxmc-macros
+
 ### Game
 
 1. https://github.com/123yoshidandy/3rd-force
@@ -17,23 +23,20 @@
 1. https://github.com/123yoshidandy/skill-battle
 1. https://github.com/123yoshidandy/tactics-game
 
-### For TV Game
+### For Pokemon
 
 1. https://github.com/123yoshidandy/pokemon-selector
 1. https://github.com/123yoshidandy/pokemon_rule
-1. https://github.com/123yoshidandy/nxmc-macros
 
-### Automation
+### For Splatoon
 
-1. https://github.com/123yoshidandy/automation-ending-days :lock:
-1. https://github.com/123yoshidandy/automation-pokemon-go :lock:
+1. https://github.com/123yoshidandy/ikawidget3
 
 ### Tool
 
 1. https://github.com/123yoshidandy/account-app :lock:
 1. https://github.com/123yoshidandy/history-of-singing
 1. https://github.com/123yoshidandy/password-generator :lock:
-1. https://github.com/123yoshidandy/ikawidget3
 1. https://github.com/123yoshidandy/zipper
 1. https://github.com/123yoshidandy/music-recognizer
 1. https://github.com/123yoshidandy/recommender4twitter
