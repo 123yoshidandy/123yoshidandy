@@ -45,6 +45,8 @@
 1. https://github.com/123yoshidandy/music-recognizer 🌑
 1. https://github.com/123yoshidandy/recommender4twitter 🌗
 1. https://github.com/123yoshidandy/history-writer 🌑
+1. https://github.com/123yoshidandy/restaurant-searcher 🌑
+1. https://github.com/123yoshidandy/date-course-planner 🌑
 
 ### Sample
 
