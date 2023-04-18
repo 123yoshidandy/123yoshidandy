@@ -29,7 +29,7 @@
 ### For Pokemon
 
 1. https://github.com/123yoshidandy/pokemon-selector 🌗
-1. https://github.com/123yoshidandy/pokemon_rule 🌗
+1. https://github.com/123yoshidandy/pokemon-rule 🌗
 
 ### For Splatoon
 
@@ -48,7 +48,7 @@
 1. https://github.com/123yoshidandy/restaurant-searcher 🌑
 1. https://github.com/123yoshidandy/date-course-planner 🌑
 1. https://github.com/123yoshidandy/menu-planner 🌑
-1. https://github.com/123yoshidandy/wolf-selector 🌑
+1. https://github.com/123yoshidandy/wolf-selector 🌕
 
 ### Sample
 
