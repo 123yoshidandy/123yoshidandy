@@ -50,6 +50,7 @@
 1. https://github.com/123yoshidandy/menu-planner 🌑
 1. https://github.com/123yoshidandy/wolf-selector 🌕
 1. https://github.com/123yoshidandy/tweet-deleter 🌕
+1. https://github.com/123yoshidandy/do-not-starve-together 🌕
 
 ### Sample
 
