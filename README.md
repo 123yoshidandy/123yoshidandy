@@ -35,6 +35,7 @@
 
 1. https://github.com/123yoshidandy/ikawidget3 🌑
 2. https://github.com/123yoshidandy/salmon-run-scorer 🌑
+3. https://github.com/123yoshidandy/weapon-selector 🌗
 
 ### Tool
 
