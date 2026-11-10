@@ -1,0 +1,45 @@
+name: Issue をプロジェクトに集める
+
+# 自分のリポジトリで開いている Issue を、ユーザーのプロジェクトに足す
+# Projects の「自動で追加する」は Free だと1つのリポジトリしか選べないので、ここでまとめて足す
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # 毎朝6時（日本時間）
+  workflow_dispatch:
+
+permissions:
+  actions: write # 自分自身を有効にし直すため
+  contents: read
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 開いている Issue をプロジェクトに足す
+        env:
+          # project の権限（非公開のリポジトリも入れるなら repo も）を持つクラシックの PAT
+          GH_TOKEN: ${{ secrets.PROJECT_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+          PROJECT_NUMBER: ${{ vars.PROJECT_NUMBER }}
+        run: |
+          if [ -z "$PROJECT_NUMBER" ]; then
+            echo "::error::リポジトリの変数 PROJECT_NUMBER が設定されていません"
+            exit 1
+          fi
+          existing=$(gh project item-list "$PROJECT_NUMBER" --owner "$OWNER" --limit 10000 --format json --jq '.items[].content.url')
+          added=0
+          for url in $(gh search issues --owner "$OWNER" --state open --limit 1000 --json url --jq '.[].url'); do
+            if ! grep -qxF "$url" <<< "$existing"; then
+              gh project item-add "$PROJECT_NUMBER" --owner "$OWNER" --url "$url" > /dev/null
+              echo "追加: $url"
+              added=$((added + 1))
+            fi
+          done
+          echo "足した Issue: $added 件"
+
+      # 公開のリポジトリで60日間動きがないと、定期実行が自動で止まる。毎回有効にし直して止まらないようにする
+      - name: このワークフローを有効にし直す
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/collect-issues.yml/enable"
