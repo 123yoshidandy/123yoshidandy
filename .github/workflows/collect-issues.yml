@@ -27,11 +27,12 @@ jobs:
             echo "::error::リポジトリの変数 PROJECT_NUMBER が設定されていません"
             exit 1
           fi
-          existing=$(gh project item-list "$PROJECT_NUMBER" --owner "$OWNER" --limit 10000 --format json --jq '.items[].content.url')
+          # プロジェクトの持ち主は @me（トークンの持ち主）で指定する。名前で指定すると、組織かどうかの問い合わせに read:org の権限が要る
+          existing=$(gh project item-list "$PROJECT_NUMBER" --owner "@me" --limit 10000 --format json --jq '.items[].content.url')
           added=0
           for url in $(gh search issues --owner "$OWNER" --state open --limit 1000 --json url --jq '.[].url'); do
             if ! grep -qxF "$url" <<< "$existing"; then
-              gh project item-add "$PROJECT_NUMBER" --owner "$OWNER" --url "$url" > /dev/null
+              gh project item-add "$PROJECT_NUMBER" --owner "@me" --url "$url" > /dev/null
               echo "追加: $url"
               added=$((added + 1))
             fi
